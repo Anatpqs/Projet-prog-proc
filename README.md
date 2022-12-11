@@ -1,2 +1,3 @@
 # Projet-prog-proc
-test
+## TD noté - Programmation procédurale
+Bibliothèques utilisés : stdio.h, stdlib.h, unistd.h, math.h, string.h, time.h
